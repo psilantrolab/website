@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { Link, withRouter } from "react-router-dom";
 import './styles.css';
 
@@ -16,8 +15,11 @@ const Header = () =>{
         <div className="header">
             <div className="row text-center fs-2 text-light h-100 align-items-center">
                 <div className="col-12">
-                    Computational and Translational <br/> Neuropsychiatry Lab
+                    Computational and Translational <br/> Neuropsychiatry Lab <br/> <div className="fs-5">PSILANTRO Lab</div>
                 </div>
+            </div>
+            <div className="logo-container hide">
+                <img src="/images/logo_transp.png" alt="" className="logo-img"/>
             </div>
         </div>
     );
