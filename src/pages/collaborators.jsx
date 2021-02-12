@@ -5,7 +5,8 @@ function CollaboratorsPage(){
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
-                    Lab Collaborators
+                    <h3>Lab Collaborators</h3>
+                    <hr/>
                     International
                     <ul>
                         <li>M. Mallar Chakravarty, PhD, CoBrA Lab, Douglas Mental Health University Institute, University of Montreal, Canada.</li>

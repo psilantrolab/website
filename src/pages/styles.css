@@ -25,10 +25,22 @@ a{
     height: 400px;
 }
 
+hr{
+    border-top: 3px dotted #bbb;
+}
+
+.notfound{
+    color: #262626;
+    font-size: 40vh;
+}
+
 /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px) {
     .hide{
         display:none;
+    }
+    .notfound{
+        font-size: 20vh;
     }
   }
   

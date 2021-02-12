@@ -8,6 +8,8 @@ function MainPage(){
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
+                    <h3>About</h3>
+                    <hr/>
                     <div className="row">
                         <img src="/images/group4.jpg" className="img-fluid align-self-center" alt="" />
                     </div>

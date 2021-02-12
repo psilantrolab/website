@@ -5,10 +5,13 @@ function PeoplePage(){
         <div className="container">
         <div className="row justify-content-center">
             <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
+                <h3>People</h3>
+                <hr/>
                 <h3>Lab Leader(PI)</h3>
+                <hr/>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/ed_2018.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -21,9 +24,10 @@ function PeoplePage(){
                     </div>
                 </div>
                 <h3>PhD students</h3>
+                <hr/>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/thania.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -34,9 +38,10 @@ function PeoplePage(){
                     </div>
                 </div>
                 <h3>Master students</h3>
+                <hr/>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/diegoe.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -48,7 +53,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/ale.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -60,7 +65,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/diego.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -72,7 +77,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/alan.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -83,9 +88,10 @@ function PeoplePage(){
                     </div>
                 </div>
                 <h3>Research Assistants</h3>
+                <hr/>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/jalil.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -97,7 +103,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/maya.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -108,9 +114,10 @@ function PeoplePage(){
                     </div>
                 </div>
                 <h3>External students (co-supervising)</h3>
+                <hr/>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/luis.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -123,7 +130,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/said.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -136,8 +143,8 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
-                            <img src="/images/victor.jpg" alt="" className="h-100"/>
+                        <div className="col-md-3 align-self-center text-center">
+                            <img src="/images/victor.jpg" alt="" className="h-100" style={{maxHeight: '130px'}}/>
                         </div>
                         <div className="col-md-8">
                             <div className="card-body">
@@ -148,10 +155,11 @@ function PeoplePage(){
                     </div>
                 </div>
                 <h3>Alumni</h3>
+                <hr/>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
-                            <img src="/images/arun.jpg" alt="" className="h-100"/>
+                        <div className="col-md-3 text-center align-items-center align-self-center">
+                            <img src="/images/arun.jpg" alt="" className="" />
                         </div>
                         <div className="col-md-8">
                             <div className="card-body">
@@ -163,7 +171,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/alely.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -175,7 +183,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/sofia.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -187,8 +195,8 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
-                            <img src="/images/sigrid.jpg" alt="" className="h-100"/>
+                        <div className="col-md-3 align-self-center text-center">
+                            <img src="/images/sigrid.jpg" alt="" className="h-100" style={{maxHeight:'140px'}}/>
                         </div>
                         <div className="col-md-8">
                             <div className="card-body">
@@ -199,8 +207,8 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
-                            <img src="/images/viviana.jpg" alt="" className="h-100"/>
+                        <div className="col-md-3 text-center align-self-center">
+                            <img src="/images/viviana.jpg" alt="" className=""  style={{maxWidth: '100px'}}/>
                         </div>
                         <div className="col-md-8">
                             <div className="card-body">
@@ -211,7 +219,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/josue.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -223,7 +231,7 @@ function PeoplePage(){
                 </div>
                 <div className="card mb-3" style={{maxWidth:'540px'}}>
                     <div className="row g-0">
-                        <div className="col-md-3 text-center">
+                        <div className="col-md-3 align-self-center text-center">
                             <img src="/images/pame.jpg" alt="" className="h-100"/>
                         </div>
                         <div className="col-md-8">
@@ -235,6 +243,7 @@ function PeoplePage(){
                 </div>
              
                <h3>Group Photos</h3>
+               <hr/>
                <div className="card mb-4" style={{width: '100%'}}>
                     <img src="/images/group4.jpg" className="card-img-top" alt="..."/>
                     <div className="card-body">

@@ -35,22 +35,22 @@ function Navbar(){
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <Link className="nav-link" to="/people">People</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/people" ? "active" : ""}`} to="/people">People</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/publications">Pulications</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/publications" ? "active" : ""}`} to="/publications">Pulications</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/resources">Resources</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/resources" ? "active" : ""}`} to="/resources">Resources</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/collaborators">Collaborators</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/collaborators" ? "active" : ""}`} to="/collaborators">Collaborators</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/contact">Contact</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/contact" ? "active" : ""}`} to="/contact">Contact</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">About</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/" ? "active" : ""}`} to="/">About</Link>
                         </li>
                     </ul>
                 </div>

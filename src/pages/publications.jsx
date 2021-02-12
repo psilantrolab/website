@@ -5,6 +5,8 @@ function PublicationsPage() {
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
+            <h3>Publications</h3>
+            <hr/>
             <h3>Pre-prints (In review)</h3>
             <ul>
               <li>
