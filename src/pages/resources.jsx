@@ -2,7 +2,7 @@ import React from "react";
 
 function ResourcesPage(){
     return(
-        <div className="container">
+        <div className="container" style={{minHeight:'65vh'}}>
             <div className="row justify-content-center">
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
                     <h3>Resources</h3>
