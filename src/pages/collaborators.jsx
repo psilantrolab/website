@@ -2,28 +2,28 @@ import React from "react";
 
 function CollaboratorsPage(){
     return(
-        <div className="container">
+        <div className="container" style={{minHeight:'65vh'}}>
             <div className="row justify-content-center">
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
                     <h3>Lab Collaborators</h3>
                     <hr/>
                     International
                     <ul>
-                        <li>M. Mallar Chakravarty, PhD, CoBrA Lab, Douglas Mental Health University Institute, University of Montreal, Canada.</li>
-                        <li>Vinoo Alluri, PhD, International Institute of Information Technology Hyderabad, India.</li>
-                        <li>Prof. Madhura Ingalhalikar, PhD, Symbiosis Centre for Medical Image Analysis, Symbiosis International University, </li>India.
-                        <li>Francisco Xavier Castellanos, M.D., NYU-Langone Medical Center & Nathan Kline Institute, USA.</li>
-                        <li>Christine Parsons, PhD, Interactive Minds Centre, University of Aarhus, Denmark.</li>
-                        <li>Prof. André Aleman, PhD, University of Groningen, Netherlands.</li>
+                        <li><a href="https://douglas.research.mcgill.ca/mallar-chakravarty">M. Mallar Chakravarty, PhD</a>,<a href="http://cobralab.ca/">CoBrA Lab</a>, Douglas Mental Health University Institute, University of Montreal, Canada.</li>
+                        <li><a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/">Vinoo Alluri, PhD</a>, International Institute of Information Technology Hyderabad, India.</li>
+                        <li><a href="https://scmia.edu.in/head">Prof. Madhura Ingalhalikar, PhD</a> ,<a href="https://scmia.edu.in/">Symbiosis Centre for Medical Image Analysis</a> , Symbiosis International University, </li>India.
+                        <li><a href="https://www.nki.rfmh.org/faculty/f-xavier-castellanos-md">Francisco Xavier Castellanos, M.D.</a>, NYU-Langone Medical Center & Nathan Kline Institute, USA.</li>
+                        <li><a href="https://pure.au.dk/portal/en/persons/christine-parsons(8828f773-0764-4eb0-959d-3357956aec4f).html">Christine Parsons, PhD</a>, Interactive Minds Centre, University of Aarhus, Denmark.</li>
+                        <li><a href="https://www.rug.nl/staff/a.aleman/">Prof. André Aleman, PhD</a>, University of Groningen, Netherlands.</li>
                     </ul>
 
                     Mexico
                     <ul>
-                        <li>Luis Concha, MD, PhD, Brain Connectivity Lab, Institute of Neurobiology, UNAM.</li>
-                        <li>Sarael Alcauter-Solorzano, PhD, Brain Mapping Lab, Institute of Neurobiology, UNAM.</li>
-                        <li>Fernando A. Barrios, PhD, Brain Mapping Lab, Institute of Neurobiology, UNAM.</li>
-                        <li>Ruth Alcalá-Lozano, MD, MSc, Instituto Nacional de Psiquiatría “Ramón de la Fuente Muñiz”.</li>
-                        <li>Alberto Camacho-Morales, PhD, Universidad Autónoma de Nuevo León.</li>
+                        <li><a href="http://personal.inb.unam.mx/lconcha/">Luis Concha, MD, PhD</a>, Brain Connectivity Lab, Institute of Neurobiology, UNAM.</li>
+                        <li><a href="https://scholar.google.com/citations?user=fAzVWFQAAAAJ&hl=en">Sarael Alcauter-Solorzano, PhD</a>, Brain Mapping Lab, Institute of Neurobiology, UNAM.</li>
+                        <li><a href="http://132.248.142.23/web_site/home_pages/27">Fernando A. Barrios, PhD</a>, Brain Mapping Lab, Institute of Neurobiology, UNAM.</li>
+                        <li><a href="https://scholar.google.com.mx/citations?user=XJ15liMAAAAJ&hl=es">Ruth Alcalá-Lozano, MD, MSc</a>, Instituto Nacional de Psiquiatría “Ramón de la Fuente Muñiz”.</li>
+                        <li><a href="https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en">Alberto Camacho-Morales, PhD</a>, Universidad Autónoma de Nuevo León.</li>
                     </ul>
                 </div>
             </div>

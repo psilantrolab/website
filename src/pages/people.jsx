@@ -2,7 +2,7 @@ import React from "react";
 
 function PeoplePage(){
     return(
-        <div className="container">
+        <div className="container" style={{minHeight:'65vh'}}>
         <div className="row justify-content-center">
             <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
                 <h3>People</h3>
@@ -257,13 +257,13 @@ function PeoplePage(){
                     </div>
                 </div>
                <div className="card mb-4" style={{width: '100%'}}>
-                    <img src="/images/group2.jpg" className="card-img-top" alt="..."/>
+                    <img src="/images/group1.jpg" className="card-img-top" alt="..."/>
                     <div className="card-body">
                      <p className="card-text">At the CIMAT Neuroimaging Meeting 2018 in Guanajuato, Mexico.</p>
                     </div>
                 </div>
                <div className="card mb-4" style={{width: '100%'}}>
-                    <img src="/images/group4.jpg" className="card-img-top" alt="..."/>
+                    <img src="/images/group2.jpg" className="card-img-top" alt="..."/>
                     <div className="card-body">
                      <p className="card-text">At the OHBM Meeting 2016 in Vancouver, Canada.</p>
                     </div>

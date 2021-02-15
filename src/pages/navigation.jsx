@@ -35,10 +35,13 @@ function Navbar(){
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
                         <li className="nav-item">
+                            <Link className={`nav-link ${window.location.pathname === "/" ? "active" : ""}`} to="/">About</Link>
+                        </li>
+                        <li className="nav-item">
                             <Link className={`nav-link ${window.location.pathname === "/people" ? "active" : ""}`} to="/people">People</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className={`nav-link ${window.location.pathname === "/publications" ? "active" : ""}`} to="/publications">Pulications</Link>
+                            <Link className={`nav-link ${window.location.pathname === "/publications" ? "active" : ""}`} to="/publications">Publications</Link>
                         </li>
                         <li className="nav-item">
                             <Link className={`nav-link ${window.location.pathname === "/resources" ? "active" : ""}`} to="/resources">Resources</Link>
@@ -48,9 +51,6 @@ function Navbar(){
                         </li>
                         <li className="nav-item">
                             <Link className={`nav-link ${window.location.pathname === "/contact" ? "active" : ""}`} to="/contact">Contact</Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link className={`nav-link ${window.location.pathname === "/" ? "active" : ""}`} to="/">About</Link>
                         </li>
                     </ul>
                 </div>

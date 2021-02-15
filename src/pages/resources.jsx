@@ -9,17 +9,17 @@ function ResourcesPage(){
                     <hr/>
                     <strong>Neuroimaging output</strong>
                     <ul>
-                        <li>Axolotl Atlas UNAM in Zenodo. Preprint here.</li>
-                        <li>Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or SARM Atlas. Preprint here.</li>
+                        <li>Axolotl Atlas UNAM in <a href="https://zenodo.org/record/4317788#.X9U-Ben0nlw">Zenodo</a>. Preprint <a href="https://www.biorxiv.org/content/10.1101/2020.12.09.418566v1">here</a>.</li>
+                        <li>Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or <a href="https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html">SARM Atlas</a>. Preprint <a href="https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1">here</a>.</li>
                         <li>UNAM-UANL Wistar rat hierarchical neuroimaging atlas (WISMEX atlas). (In the works).</li>
                     </ul>
 
 
                     <strong>Open Datasets</strong>
                     <ul>
-                        <li>SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients.</li>
-                        <li>SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients.</li>
-                        <li>Functional Connectivity of Music-Induced Analgesia in Fibromyalgia. Paper here</li>
+                        <li><a href="https://openneuro.org/datasets/ds003346/versions/1.1.0">SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients</a>.</li>
+                        <li><a href="https://openneuro.org/datasets/ds003037/versions/1.0.0">SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients</a>.</li>
+                        <li><a href="https://openneuro.org/datasets/ds001928/versions/1.1.0">Functional Connectivity of Music-Induced Analgesia in Fibromyalgia</a>. Paper <a href="">here</a></li>
                     </ul>
 
 
