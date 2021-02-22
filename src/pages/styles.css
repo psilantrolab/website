@@ -34,6 +34,13 @@ hr{
     font-size: 40vh;
 }
 
+.img-table{
+    height: 100px;
+    align-self: center;
+    justify-self: center;
+}
+
+
 /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px) {
     .hide{
