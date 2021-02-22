@@ -72,9 +72,9 @@ function PublicationsPage() {
 
             <h3>2017</h3>
             <ul>
-            Alcalá-Lozano R, Morelos-Santana E, Cortés-Sotres JF, Garza-Villarreal EA, Sosa-Ortiz AL, Gonzalez-Olvera JJ. <a href="https://doi.org/10.1016/j.brs.2017.12.011">Similar clinical improvement and maintenance after rTMS at 5 Hz using a simple vs. complex protocol in Alzheimer’s disease</a>. Brain Stimul. 2017;11:625-627.
-            Garza Villarreal EA, Pando V, Vuust P, Parsons C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29149141">Music-Induced Analgesia in Chronic Pain Conditions: A Systematic Review and Meta-Analysis</a>. Pain Physician. 2017 Nov;20(7):597–610.
-            Garza-Villarreal EA, Chakravarty MM, Hansen B, Eskildsen SF, Devenyi GA, Castillo-Padilla D, et al. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534960/">The effect of crack cocaine addiction and age on the microstructure and morphology of the human striatum and thalamus using shape analysis and fast diffusion kurtosis imaging</a>. Transl Psychiatry. 2017 May 9;7(5):e1122.
+            <li>Alcalá-Lozano R, Morelos-Santana E, Cortés-Sotres JF, Garza-Villarreal EA, Sosa-Ortiz AL, Gonzalez-Olvera JJ. <a href="https://doi.org/10.1016/j.brs.2017.12.011">Similar clinical improvement and maintenance after rTMS at 5 Hz using a simple vs. complex protocol in Alzheimer’s disease</a>. Brain Stimul. 2017;11:625-627.</li>
+            <li>Garza Villarreal EA, Pando V, Vuust P, Parsons C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29149141">Music-Induced Analgesia in Chronic Pain Conditions: A Systematic Review and Meta-Analysis</a>. Pain Physician. 2017 Nov;20(7):597–610.</li>
+            <li>Garza-Villarreal EA, Chakravarty MM, Hansen B, Eskildsen SF, Devenyi GA, Castillo-Padilla D, et al. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534960/">The effect of crack cocaine addiction and age on the microstructure and morphology of the human striatum and thalamus using shape analysis and fast diffusion kurtosis imaging</a>. Transl Psychiatry. 2017 May 9;7(5):e1122.</li>
             </ul>
             <h3>2016</h3>
             <ul>
