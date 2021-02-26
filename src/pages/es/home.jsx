@@ -1,50 +1,49 @@
 import React from 'react';
 import { Timeline } from 'react-twitter-widgets'
-import './styles.css';
+import '../styles.css';
 import Navigation from './navigation';
 import Footer from './footer';
 
-
-function MainPage(){
+function About_es(){
     return (
         <div>
             <Navigation/>
             <div className="container" style={{minHeight:'65vh'}}>
                 <div className="row justify-content-center">
                     <div className="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-5">
-                        <h3>About</h3>
+                        <h3>Nosotros</h3>
                         <hr/>
                         <div className="row">
                             <img src="/images/group4.jpg" className="img-fluid align-self-center" alt="" />
                         </div>
                         <div className="row mt-3">
                             <p>
-                                We are a research group, within the <a target="_blank"  href="www.lanirem.inb.unam.mx"> National MRI Laboratory (LANIREM)</a>, at the <a target="_blank"  href="http://inb.unam.mx/index.html">Institute of Neurobiology</a>, <a target="_blank"  href="https://www.unam.mx/">National Autonomous University of Mexico (UNAM)</a>  in Querétaro, Mexico.
+                                Somos un grupo de investigación como parte del Laboratorio Nacional de Imagenología por Resonancia Magnética, en el Instituto de Neurobiología de la UNAM campus Juriquilla en Querétaro, México.
                             </p>
                             <p>
-                                Our mission is to conduct rigurous basic research focused on finding behavioral, neuroimaging, and other biological biomarkers in substance use disorders and other neuropsychiatric disorders, to use this knowledge to tackle applied and clinical questions, such as researching new treatments like neuromodulation.
+                                Nuestra misión es realizar investigación científica básica rigurosa enfocada en encontrar biomarcadores de comportamiento, neuroimagen y otros marcadores biológicos en trastornos por uso de sustancias y otros trastornos neuropsiquiátricos, y hacer uso de este conocimiento para responder preguntas científicas aplicadas y clínicas, así como la búsqueda de nuevos tratamientos como la neuromodulación.
                             </p>
                             <p>
-                                <strong>Lines of research</strong> 
+                                <strong>Líneas de investigación</strong> 
                             </p>
                             <p>
                                 <ul>
-                                    <li>Frontostriatal system in substance use and addiction, and neuropsychiatric disorders.</li>
-                                    <li>Identification of neuroimaging biomarkers in humans and animal models.</li>
-                                    <li>Action mechanisms and possible uses of neuromodulation methods.</li>
+                                    <li>Sistema frontoestriatal en desórdenes de uso de sustancias y neuropsiquiátricos.</li>
+                                    <li>Identificación de biomarcadores de neuroimagen en humanos y modelos animales.</li>
+                                    <li>Mecanismos de acción y posibles usos de métodos de neuromodulación.</li>
                                 </ul>
                             </p>
                             <p>
                                 <strong>
-                                    Member of National & International Consortiums
+                                    Miembros de Consorcios nacionales e internacionales
                                 </strong>
                             </p>
                             <p>
                                 <ul>
-                                    <li><a target="_blank"  href="https://www.enigmaaddictionconsortium.com/">ENIGMA-Addiction World-wide Consortium.</a></li>
+                                    <li><a target="_blank"  href="https://www.enigmaaddictionconsortium.com/">Consorcio Mundial ENIGMA-Addiction.</a></li>
                                     <li>International Networks of tES /TMS Trials for Addiction Medicine (INTAM). <a target="_blank"  href="https://twitter.com/INTAM_Network">@INTAM_Network.</a></li>
-                                    <li><a target="_blank"  href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">PRIMatE Data Exchange (PRIME-DE) Consortium.</a></li>
-                                    <li>Mexico Borderline Personality Disorder (BDP) Research Group.</li>
+                                    <li><a target="_blank"  href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">Consorcio PRIMatE Data Exchange (PRIME-DE).</a></li>
+                                    <li>Grupo de Investigación sobre Trastorno Límite de la Personalidad México.</li>
                                 </ul>
                             </p>
                         </div>
@@ -63,8 +62,10 @@ function MainPage(){
                     </div>
                 </div>
             </div>
-            <Footer/>        </div>
+            <Footer/>
+        </div>
+
     );
 }
 
-export default MainPage;
+export default About_es;
