@@ -2,7 +2,7 @@ import React from 'react';
 import { Timeline } from 'react-twitter-widgets'
 import '../styles.css';
 import Navigation from './navigation';
-import Footer from './footer';
+import Footer from '../footer';
 
 function About_es(){
     return (
