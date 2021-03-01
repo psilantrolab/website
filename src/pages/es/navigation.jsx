@@ -22,8 +22,8 @@ const Header = () =>{
                 <img src="/images/logo_transp.png" alt="" className="logo-img"/>
             </div>
             <div className="language-container">
-                <Link to="/home_es" className="text-light">Es/</Link>
-                <Link to="/" className="text-light">In</Link>
+                <Link to="/home_es" className="text-light"><strong>Espa&ntilde;ol/</strong></Link>
+                <Link to="/" className="text-light"><strong>English</strong></Link>
             </div>
         </div>
     );
