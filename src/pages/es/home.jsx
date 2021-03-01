@@ -26,26 +26,26 @@ function About_es(){
                             <p>
                                 <strong>Líneas de investigación</strong> 
                             </p>
-                            <p>
+                            <span>
                                 <ul>
                                     <li>Sistema frontoestriatal en desórdenes de uso de sustancias y neuropsiquiátricos.</li>
                                     <li>Identificación de biomarcadores de neuroimagen en humanos y modelos animales.</li>
                                     <li>Mecanismos de acción y posibles usos de métodos de neuromodulación.</li>
                                 </ul>
-                            </p>
+                            </span>
                             <p>
                                 <strong>
                                     Miembros de Consorcios nacionales e internacionales
                                 </strong>
                             </p>
-                            <p>
+                            <span>
                                 <ul>
-                                    <li><a target="_blank"  href="https://www.enigmaaddictionconsortium.com/">Consorcio Mundial ENIGMA-Addiction.</a></li>
-                                    <li>International Networks of tES /TMS Trials for Addiction Medicine (INTAM). <a target="_blank"  href="https://twitter.com/INTAM_Network">@INTAM_Network.</a></li>
-                                    <li><a target="_blank"  href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">Consorcio PRIMatE Data Exchange (PRIME-DE).</a></li>
+                                    <li><a target="_blank" rel="noreferrer"  href="https://www.enigmaaddictionconsortium.com/">Consorcio Mundial ENIGMA-Addiction.</a></li>
+                                    <li>International Networks of tES /TMS Trials for Addiction Medicine (INTAM). <a target="_blank" rel="noreferrer"  href="https://twitter.com/INTAM_Network">@INTAM_Network.</a></li>
+                                    <li><a target="_blank" rel="noreferrer"  href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">Consorcio PRIMatE Data Exchange (PRIME-DE).</a></li>
                                     <li>Grupo de Investigación sobre Trastorno Límite de la Personalidad México.</li>
                                 </ul>
-                            </p>
+                            </span>
                         </div>
                     </div>
                     <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-5 text-center">

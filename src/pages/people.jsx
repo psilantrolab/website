@@ -24,7 +24,7 @@ function PeoplePage(){
                                     <p className="card-text">Assistant Professor, Institute of Neurobiology, UNAM, Mexico.</p>
                                 </div>
                             </div>
-                            <div className="card-footer"><a target="_blank"  href="https://egarza.github.io/"> Personal Website</a> - <a target="_blank"  href="https://github.com/egarza">Github</a>  - <a target="_blank"  href="https://twitter.com/egarzav">Twitter</a>  - <a target="_blank"  href="https://www.researchgate.net/profile/Eduardo_Garza_Villarreal">ResearchGate</a>  - <a target="_blank"  href="https://scholar.google.com/citations?user=bX502bUAAAAJ&hl=en">Google Scholar</a>  - <a target="_blank"  href="https://osf.io/uc6aj/"> OSF</a> - <a target="_blank"  href="https://orcid.org/0000-0003-1381-8648">ORCID</a></div>
+                            <div className="card-footer"><a target="_blank" rel="noreferrer"  href="https://egarza.github.io/"> Personal Website</a> - <a target="_blank" rel="noreferrer"  href="https://github.com/egarza">Github</a>  - <a target="_blank" rel="noreferrer"  href="https://twitter.com/egarzav">Twitter</a>  - <a target="_blank" rel="noreferrer"  href="https://www.researchgate.net/profile/Eduardo_Garza_Villarreal">ResearchGate</a>  - <a target="_blank" rel="noreferrer"  href="https://scholar.google.com/citations?user=bX502bUAAAAJ&hl=en">Google Scholar</a>  - <a target="_blank" rel="noreferrer"  href="https://osf.io/uc6aj/"> OSF</a> - <a target="_blank" rel="noreferrer"  href="https://orcid.org/0000-0003-1381-8648">ORCID</a></div>
                         </div>
                     </div>
                     <h3>PhD students</h3>
@@ -127,7 +127,7 @@ function PeoplePage(){
                             <div className="col-md-8">
                                 <div className="card-body">
                                     <h5 className="card-title">Luis A. Trujillo, M.Sc., Biochemistry</h5>
-                                    <p className="card-text">Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: <a target="_blank"  href="https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en">Alberto Camacho</a></p>
+                                    <p className="card-text">Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: <a target="_blank" rel="noreferrer"  href="https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en">Alberto Camacho</a></p>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +140,7 @@ function PeoplePage(){
                             <div className="col-md-8">
                                 <div className="card-body">
                                     <h5 className="card-title">Said Said Jimenez, M.Sc., Psychology.</h5>
-                                    <p className="card-text">Ph.D. Student, Faculty of Psychology, UNAM. Supervisor: <a target="_blank"  href="http://psicologia.posgrado.unam.mx/juan-jose-sanchez-sosa/">Juan José Sanchez Sosa</a></p>
+                                    <p className="card-text">Ph.D. Student, Faculty of Psychology, UNAM. Supervisor: <a target="_blank" rel="noreferrer"  href="http://psicologia.posgrado.unam.mx/juan-jose-sanchez-sosa/">Juan José Sanchez Sosa</a></p>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +153,7 @@ function PeoplePage(){
                             <div className="col-md-8">
                                 <div className="card-body">
                                     <h5 className="card-title">Victor Victor Pando, M.Sc.</h5>
-                                    <p className="card-text">Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: <a target="_blank"  href="https://scholar.google.com/citations?user=DkKlEL0AAAAJ&hl=en&oi=ao">Peter Vuust</a></p>
+                                    <p className="card-text">Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: <a target="_blank" rel="noreferrer"  href="https://scholar.google.com/citations?user=DkKlEL0AAAAJ&hl=en&oi=ao">Peter Vuust</a></p>
                                 </div>
                             </div>
                         </div>

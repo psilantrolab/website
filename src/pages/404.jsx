@@ -1,6 +1,4 @@
 import React from 'react';
-import { withRouter } from 'react-router-dom';
-
 function NotFoundPage(){
     return (
         <div className="container" style={{height:'65vh'}}>

@@ -22,7 +22,7 @@ function ResourcesPage(){
                                     <td>
                                         <div className="row">
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6">
-                                                Axolotl Atlas UNAM in <a target="_blank"  href="https://zenodo.org/record/4317788#.X9U-Ben0nlw">Zenodo</a>. Preprint <a target="_blank"  href="https://www.biorxiv.org/content/10.1101/2020.12.09.418566v1">here</a>.
+                                                Axolotl Atlas UNAM in <a target="_blank" rel="noreferrer"  href="https://zenodo.org/record/4317788#.X9U-Ben0nlw">Zenodo</a>. Preprint <a target="_blank" rel="noreferrer"  href="https://www.biorxiv.org/content/10.1101/2020.12.09.418566v1">here</a>.
                                             </div>
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 d-flex align-items-center justify-content-center">
                                                     {/* <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcincinnatichildrensblog.org%2Fwp-content%2Fuploads%2F2016%2F01%2Ffig-1-610x285.jpg&f=1&nofb=1" alt="" className="img-table"/> */}
@@ -34,7 +34,7 @@ function ResourcesPage(){
                                     <td>
                                         <div className="row">
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6">
-                                                Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or <a target="_blank" href="https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html">SARM Atlas</a>. Preprint <a target="_blank" href="https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1">here</a>
+                                                Subcortical Atlas of the Rhesus Macaque (SARM) for Magnetic Resonance Imaging or <a target="_blank" rel="noreferrer" href="https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html">SARM Atlas</a>. Preprint <a target="_blank" rel="noreferrer" href="https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1">here</a>
                                             </div>
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 d-flex align-items-center justify-content-center">
                                                     {/* <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcincinnatichildrensblog.org%2Fwp-content%2Fuploads%2F2016%2F01%2Ffig-1-610x285.jpg&f=1&nofb=1" alt="" className="img-table"/> */}
@@ -68,7 +68,7 @@ function ResourcesPage(){
                                     <td>
                                         <div className="row">
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6">
-                                            <a target="_blank"  href="https://openneuro.org/datasets/ds003346/versions/1.1.0">SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients</a>.
+                                            <a target="_blank" rel="noreferrer"  href="https://openneuro.org/datasets/ds003346/versions/1.1.0">SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients</a>.
                                             </div>
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 d-flex align-items-center justify-content-center">
                                                     {/* <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcincinnatichildrensblog.org%2Fwp-content%2Fuploads%2F2016%2F01%2Ffig-1-610x285.jpg&f=1&nofb=1" alt="" className="img-table"/> */}
@@ -80,7 +80,7 @@ function ResourcesPage(){
                                     <td>
                                         <div className="row">
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6">
-                                            <a target="_blank"  href="https://openneuro.org/datasets/ds003037/versions/1.0.0">SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients</a>.
+                                            <a target="_blank" rel="noreferrer"  href="https://openneuro.org/datasets/ds003037/versions/1.0.0">SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients</a>.
                                             </div>
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 d-flex align-items-center justify-content-center">
                                                     {/* <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcincinnatichildrensblog.org%2Fwp-content%2Fuploads%2F2016%2F01%2Ffig-1-610x285.jpg&f=1&nofb=1" alt="" className="img-table"/> */}
@@ -92,7 +92,7 @@ function ResourcesPage(){
                                     <td>
                                         <div className="row">
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6">
-                                                <a target="_blank"  href="https://openneuro.org/datasets/ds001928/versions/1.1.0">Functional Connectivity of Music-Induced Analgesia in Fibromyalgia</a>. Paper <a target="_blank"  href="https://www.nature.com/articles/s41598-019-51990-4">here</a>
+                                                <a target="_blank" rel="noreferrer"  href="https://openneuro.org/datasets/ds001928/versions/1.1.0">Functional Connectivity of Music-Induced Analgesia in Fibromyalgia</a>. Paper <a target="_blank" rel="noreferrer"  href="https://www.nature.com/articles/s41598-019-51990-4">here</a>
                                             </div>
                                             <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6 d-flex align-items-center justify-content-center">
                                                     {/* <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcincinnatichildrensblog.org%2Fwp-content%2Fuploads%2F2016%2F01%2Ffig-1-610x285.jpg&f=1&nofb=1" alt="" className="img-table"/> */}

@@ -15,11 +15,15 @@ const Header = () =>{
         <div className="header">
             <div className="row text-center fs-2 text-light h-100 align-items-center">
                 <div className="col-12">
-                    Laboratorio de Neuropsiquiatría Computacional y Traslacional <div className="fs-5">(PSILANTRO Lab)</div>
+                    Laboratorio de Neuropsiquiatría <br/>Computacional y Traslacional <div className="fs-5">(PSILANTRO Lab)</div>
                 </div>
             </div>
             <div className="logo-container hide">
                 <img src="/images/logo_transp.png" alt="" className="logo-img"/>
+            </div>
+            <div className="language-container">
+                <Link to="/home_es" className="text-light">Es/</Link>
+                <Link to="/" className="text-light">In</Link>
             </div>
         </div>
     );

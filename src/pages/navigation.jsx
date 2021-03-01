@@ -21,6 +21,10 @@ const Header = () =>{
             <div className="logo-container hide">
                 <img src="/images/logo_transp.png" alt="" className="logo-img"/>
             </div>
+            <div className="language-container">
+                <Link to="/" className="text-light">En/</Link>
+                <Link to="/home_es" className="text-light">Sp</Link>
+            </div>
         </div>
     );
 }
