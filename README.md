@@ -26,7 +26,11 @@ Necesario antes de subir
     Configure as a single-page app (rewrite all urls to /index.html)? Yes
     File build/index.html already exists. Overwrite? No
 
-Subirlo a firebase
+Hacer el Build
+
+### `npm run build`
+
+Subirlo a firebase (revisar que firebase.json apunte a `build`)
 ### `firebase deploy`
 
 
