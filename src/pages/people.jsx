@@ -16,7 +16,7 @@ function PeoplePage(){
                     <div className="card mb-3" style={{maxWidth:'540px'}}>
                         <div className="row g-0">
                             <div className="col-md-3 align-self-center text-center">
-                                <img src="/images/ed_2018.jpg" alt="" className="h-100"/>
+                                <img src="/images/ed_2021.jpg" alt="" className="h-100"/>
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
@@ -37,6 +37,18 @@ function PeoplePage(){
                             <div className="col-md-8">
                                 <div className="card-body">
                                     <h5 className="card-title"> Thania Balducci, M.D., M.Sc., Medical Sciences.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="card mb-3" style={{maxWidth:'540px'}}>
+                        <div className="row g-0">
+                            <div className="col-md-3 align-self-center text-center">
+                                <img src="/images/jalil.jpg" alt="" className="h-100"/>
+                            </div>
+                            <div className="col-md-8">
+                                <div className="card-body">
+                                    <h5 className="card-title"> Jalil Rasgado-Toledo, M.Sc., Neurobiology.</h5>
                                 </div>
                             </div>
                         </div>
@@ -91,20 +103,22 @@ function PeoplePage(){
                             </div>
                         </div>
                     </div>
-                    <h3>Research Assistants</h3>
+                    <h3>Bachelor students</h3>
                     <hr/>
                     <div className="card mb-3" style={{maxWidth:'540px'}}>
                         <div className="row g-0">
                             <div className="col-md-3 align-self-center text-center">
-                                <img src="/images/jalil.jpg" alt="" className="h-100"/>
+                                <img src="/images/victori.jpg" alt="" className="h-100"/>
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Jalil Rasgado, M.Sc.</h5>
+                                    <h5 className="card-title">Victor Issa-García, M.D.</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <h3>Research Assistants</h3>
+                    <hr/>
                     <div className="card mb-3" style={{maxWidth:'540px'}}>
                         <div className="row g-0">
                             <div className="col-md-3 align-self-center text-center">
@@ -113,6 +127,30 @@ function PeoplePage(){
                             <div className="col-md-8">
                                 <div className="card-body">
                                     <h5 className="card-title">Juan Pablo Maya-Arteaga, M.D.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="card mb-3" style={{maxWidth:'540px'}}>
+                        <div className="row g-0">
+                            <div className="col-md-3 align-self-center text-center">
+                                <img src="/images/fajardo.jpg" alt="" className="h-100"/>
+                            </div>
+                            <div className="col-md-8">
+                                <div className="card-body">
+                                    <h5 className="card-title">Alfonso Fajardo, M.Sc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="card mb-3" style={{maxWidth:'540px'}}>
+                        <div className="row g-0">
+                            <div className="col-md-3 align-self-center text-center">
+                                <img src="/images/rojas.jpg" alt="" className="h-100"/>
+                            </div>
+                            <div className="col-md-8">
+                                <div className="card-body">
+                                    <h5 className="card-title">Eduardo Rojas-Hortelano, M.Sc.</h5>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +165,7 @@ function PeoplePage(){
                             <div className="col-md-8">
                                 <div className="card-body">
                                     <h5 className="card-title">Luis A. Trujillo, M.Sc., Biochemistry</h5>
-                                    <p className="card-text">Ph.D. Student, Faculty of Medicine, Universidad Autónoma de Nuevo León. Supervisor: <a target="_blank" rel="noreferrer"  href="https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en">Alberto Camacho</a></p>
+                                    <p className="card-text">Ph.D. Student, Universidad Autónoma de Nuevo León. Supervisor: <a target="_blank" rel="noreferrer"  href="https://scholar.google.com.mx/citations?user=4rbm3UYAAAAJ&hl=en">Alberto Camacho</a></p>
                                 </div>
                             </div>
                         </div>
@@ -139,7 +177,7 @@ function PeoplePage(){
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Said Said Jimenez, M.Sc., Psychology.</h5>
+                                    <h5 className="card-title">Said Jimenez, M.Sc., Psychology.</h5>
                                     <p className="card-text">Ph.D. Student, Faculty of Psychology, UNAM. Supervisor: <a target="_blank" rel="noreferrer"  href="http://psicologia.posgrado.unam.mx/juan-jose-sanchez-sosa/">Juan José Sanchez Sosa</a></p>
                                 </div>
                             </div>
@@ -152,8 +190,8 @@ function PeoplePage(){
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Victor Victor Pando, M.Sc.</h5>
-                                    <p className="card-text">Ph.D. Student, Center for Music in the Brain, University of Aarhus, Denmark. Supervisor: <a target="_blank" rel="noreferrer"  href="https://scholar.google.com/citations?user=DkKlEL0AAAAJ&hl=en&oi=ao">Peter Vuust</a></p>
+                                    <h5 className="card-title">Victor Pando, M.Sc.</h5>
+                                    <p className="card-text">Ph.D. Student, University of Aarhus, Denmark. Supervisor: <a target="_blank" rel="noreferrer"  href="https://scholar.google.com/citations?user=DkKlEL0AAAAJ&hl=en&oi=ao">Peter Vuust</a></p>
                                 </div>
                             </div>
                         </div>
@@ -180,7 +218,7 @@ function PeoplePage(){
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Alely Alely Valencia, B.A.</h5>
+                                    <h5 className="card-title">Alely Valencia, B.A.</h5>
                                 </div>
                             </div>
                         </div>
@@ -218,7 +256,7 @@ function PeoplePage(){
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Viviana Villicaña, B.A</h5>
+                                    <h5 className="card-title">Viviana Villicaña, B.A.</h5>
                                     <p className="card-text">(Currently <strong>MSc student</strong> at NeuroBIM-Bordeaux International Master of Neurosciences in <strong>University of Bordeaux</strong>)</p>
                                 </div>
                             </div>
@@ -231,7 +269,7 @@ function PeoplePage(){
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Josue Josue Mendoza, B.A</h5>
+                                    <h5 className="card-title">Josue Mendoza, B.A.</h5>
                                     <p className="card-text">(Currently: <strong>Specialty</strong> in Applied Statistics from the <strong>IMAS UNAM</strong>)</p>
                                 </div>
                             </div>
@@ -244,7 +282,7 @@ function PeoplePage(){
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
-                                    <h5 className="card-title">Pamela Pamela Palacios, M.Sc</h5>
+                                    <h5 className="card-title">Pamela Palacios, M.Sc</h5>
                                     <p className="card-text">(Currently: <strong>Psychological Examiner</strong> at <strong>St. Jude Children’s Research Hospital Memphis, Tennessee</strong>)</p>
                                 </div>
                             </div>
@@ -253,6 +291,12 @@ function PeoplePage(){
                 
                 <h3>Group Photos</h3>
                 <hr/>
+                <div className="card mb-4" style={{width: '100%'}}>
+                        <img src="/images/group5.png" className="card-img-top" alt="..."/>
+                        <div className="card-body">
+                        <p className="card-text">The team on Pandemic Meetings 2021.</p>
+                        </div>
+                    </div>
                 <div className="card mb-4" style={{width: '100%'}}>
                         <img src="/images/group4.jpg" className="card-img-top" alt="..."/>
                         <div className="card-body">
