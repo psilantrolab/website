@@ -56,7 +56,7 @@ hr{
         font-size: 20vh;
     }
     .language-container{
-        top: 90px;
+        top: 84px;
         right: 5px;
         font-size: 12px;
     }
@@ -87,11 +87,15 @@ hr{
   
   /** dispositivos grandes (desktops) */
   @media (min-width: 992px) and (max-width: 1199px) {
-    
+    .header{
+        height: 20vh;
+    } 
   }
   
   /** dispositivos extra grandes (monitores grandes, tvs) */
   @media (min-width: 1200px) {
-    
+    .header{
+        height: 20vh;
+    }
   }
   
