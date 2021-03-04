@@ -11,13 +11,13 @@ a{
 
 .logo-container{
     position: absolute;
-    top: 0;
+    top: 10px;
     left: 10vh;
     margin-top: 5px;
 }
 
 .logo-img{
-    height: 15vh;
+    height: 20vh;
 }
 
 .map-responsive{
@@ -46,36 +46,24 @@ hr{
     top: 5px;
 }
 
-
-/** dispositivos móviles en vista viewport (vertical) */
-@media (max-width: 575px) {
+  
+   /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
     .hide{
         display:none;
     }
-    .notfound{
-        font-size: 20vh;
+    .header{
+        height: 30vh;
     }
     .language-container{
-        top: 84px;
-        right: 5px;
-        font-size: 12px;
+        top: 2px;
+        right: 12px;
+        font-size: 14px;
     }
   }
   
-  /** dispositivos pequeños en vista landscape (horizontal) */
-  @media (min-width: 576px) and (max-width: 767px) {
-    .hide{
-        display:none;
-    }
-    .language-container{
-        top: 88px;
-        right: 5px;
-        font-size: 15px;
-    }
-  }
-  
-  /** dispositivos medianos (tablets) */
-  @media (min-width: 768px) and (max-width: 991px) {
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) and (max-width: 768px) {
     .hide{
         display: none;
     }
@@ -83,19 +71,96 @@ hr{
         margin-top: 4px;
         left: 5vh;
     }
-  }
-  
-  /** dispositivos grandes (desktops) */
-  @media (min-width: 992px) and (max-width: 1199px) {
-    .header{
-        height: 20vh;
-    } 
-  }
-  
-  /** dispositivos extra grandes (monitores grandes, tvs) */
-  @media (min-width: 1200px) {
     .header{
         height: 20vh;
     }
+    .language-container{
+        right: 12px;
+    }
   }
+  
+/* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 769px) {
+    .header{
+        height: 20vh;
+    } 
+    .logo-container{
+        position: absolute;
+        top: 10px;
+        left: 5vh;
+        margin-top: 5px;
+    }
+    .logo-img{
+        height: 15vh;
+    }
+  }
+  
+/* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .header{
+        height: 22vh;
+    }
+  }
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+    @media only screen and (min-width: 1200px) {
+        .language-container{
+            right: 50px;
+        }
+        .header{
+            height: 25vh;
+        }
+        .logo-container{
+            position: absolute;
+            top: 10px;
+            left: 10vh;
+            margin-top: 5px;
+        }
+        
+        .logo-img{
+            height: 20vh;
+        }
+    }   
+
+/* ----------- iPad Pro ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .logo-container{
+        display: none;
+    }
+}
+
+/* Portrait */
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .logo-container{
+        display: none;
+    }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .logo-container{
+        display: none;
+    }
+}
+
+/* Kindle Fire HDX  */
+@media only screen and (min-device-width: 800px)
+    and (max-device-width: 1600px)
+    and (-webkit-device-pixel-ratio: 2) {
+        .logo-container{
+            display: none;
+        }
+    }
   
