@@ -85,20 +85,25 @@ hr{
         height: 20vh;
     } 
     .logo-container{
-        position: absolute;
-        top: 10px;
-        left: 5vh;
-        margin-top: 5px;
+        top: 100px;
+        left: 40px;
     }
     .logo-img{
-        height: 15vh;
+        height: 100px;
     }
   }
   
 /* Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
     .header{
-        height: 22vh;
+        height: 20vh;
+    }
+    .logo-container{
+        top:75px;
+        left:25px;
+    }
+    .logo-img{
+        height:9vh;
     }
   }
 
@@ -108,17 +113,11 @@ hr{
             right: 50px;
         }
         .header{
-            height: 25vh;
+            height: 20vh;
         }
         .logo-container{
-            position: absolute;
-            top: 10px;
+            top: 5vh;
             left: 10vh;
-            margin-top: 5px;
-        }
-        
-        .logo-img{
-            height: 20vh;
         }
     }   
 
